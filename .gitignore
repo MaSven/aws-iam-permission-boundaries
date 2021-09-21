@@ -13,3 +13,4 @@ cdk.out
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+/.log/
